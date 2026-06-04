@@ -1,0 +1,1 @@
+# glowsary-extension-privacy
